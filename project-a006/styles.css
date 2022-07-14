@@ -1,6 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
 button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 5rem;
     height: 2rem;
-    background-color: cyan;
+    color: white;
+    background-color: blue;
     border-radius: .5rem;
 }
